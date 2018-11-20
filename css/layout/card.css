@@ -1,0 +1,21 @@
+.card_perso{
+	height:180px;
+	border-radius:8px;
+	margin-top:20px;
+	transition:0.5s all;
+}
+.card_perso:hover{
+	transform: scale(1.02);
+}
+.card_perso_1{
+	background-image: url(https://www.rd.com/wp-content/uploads/2017/05/02-thailand-Best-Places-to-Travel-Cheap-that-Feel-Ultra-Luxe_547387867-saiko3p.jpg);
+	background-size:cover;
+}
+.card_perso_2{
+	background-image:url(http://www.bemaflek.com/wp-content/uploads/2013/04/VOYAGE-EUROPE.jpg);
+	background-size:cover;
+}
+.card_perso_3{
+	background-image:url(http://archives.lametropole.com/assets/application/articles/2//fb098963d60cad6_file.jpg);
+	background-size:cover;
+}

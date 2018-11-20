@@ -1,0 +1,8 @@
+.lien_nav{
+	padding:8px 20px;
+	font-size:1.4em;
+	border-bottom:2px solid #fff;
+}
+.lien_nav:hover{
+	border-bottom:2px solid #EB5D65;
+}

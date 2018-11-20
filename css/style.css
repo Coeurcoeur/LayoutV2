@@ -1,0 +1,52 @@
+@charset "utf-8";
+@import url("layout/navbar.css");
+@import url("layout/map.css");
+@import url("layout/card.css");
+/* CSS Document */
+a{text-decoration:none;color:#333;}
+a:hover{color:#EB5D65;}
+
+.contain{
+	padding:20px 100px;
+}
+
+.en_tete{
+	border:2px solid #EB5D65;
+	border-radius:10px;
+	height:80px;
+	text-align:center; 	
+}
+	.en_tete span{
+		font-size:2em;
+		line-height:70px;
+		color:#EB5D65;
+	}
+	.en_tete img{
+		width:65px;
+		margin-left:10px;
+		margin-top:-13px;
+	}
+
+.formulaire{
+	width:700px;
+	margin:auto;
+	padding-bottom:10px;
+}
+	.formulaire h1{
+		text-align:center;
+	}
+
+.separateur{
+	height:2px;
+	background-color:#EB5D65;
+}
+
+.layout{
+	display:flex;
+}
+	.cards{
+		flex:2;
+	}
+	.map{
+		flex:1;
+	}

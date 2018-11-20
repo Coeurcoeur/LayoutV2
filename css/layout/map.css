@@ -1,0 +1,9 @@
+.map{
+	margin-left:20px;
+	
+}
+.map div{
+	margin-top:20px;
+	position:sticky !important;
+	top:20px;
+}
